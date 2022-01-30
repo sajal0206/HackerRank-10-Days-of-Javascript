@@ -82,3 +82,72 @@ When we sum the floating-point numbers  and , we get . When we concatenate Hacke
 You will not pass this challenge if you attempt to assign the Sample Case values to your variables instead of following the instructions above.
 
 
+# Day 1: Arithmetic Operators
+Objective
+
+In this challenge, we practice using arithmetic operators. Check out the attached tutorial for resources.
+
+Task
+
+Complete the following functions in the editor below:
+
+getArea(length, width): Calculate and return the area of a rectangle having sides  and .
+getPerimeter(length, width): Calculate and return the perimeter of a rectangle having sides  and .
+The values returned by these functions are printed to stdout by locked stub code in the editor.
+
+Input Format
+
+image
+
+image
+
+Constraints
+
+ and  are scaled to at most three decimal places.
+Output Format
+
+image
+
+Sample Input 0
+
+3
+4.5
+Sample Output 0
+
+13.5
+15
+Explanation 0
+
+The area of the rectangle is .
+The perimeter of the rectangle is .
+
+
+# Day 1: Functions
+Objective
+
+Today, we're discussing JavaScript functions. Check out the attached tutorial for more details.
+
+Task
+
+Implement a function named factorial that has one parameter: an integer, . It must return the value of  (i.e.,  factorial).
+
+Input Format
+
+Locked stub code in the editor reads a single integer, , from stdin and passes it to a function named factorial.
+
+Constraints
+
+Output Format
+
+The function must return the value of .
+
+Sample Input 0
+
+4
+Sample Output 0
+
+24
+Explanation 0
+
+We return the value of .
+
