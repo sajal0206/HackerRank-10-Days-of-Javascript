@@ -36,12 +36,15 @@ function readLine() {
 *   
 *	Return a number denoting the rectangle's area.
 **/
+
+<hr>
 function getArea(length, width) {
     let area;
     // Write your code here
     area = length*width;
     return area;
 }
+<hr>
 
 /**
 *   Calculate the perimeter of a rectangle.
