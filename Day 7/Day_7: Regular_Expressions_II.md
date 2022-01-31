@@ -33,7 +33,7 @@ function regexVar() {
      * followed by one or more letters.
      */
     <hr>
-    let re = /^([MDE])[r][s]?[\.][a-zA-Z]/;
+    let re = /^([MDE])[r][s]?[\.][a-zA-Z]$/;
     <hr>
     /*
      * Do not remove the return statement
