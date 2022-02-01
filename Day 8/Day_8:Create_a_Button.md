@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/66727050/151925667-9f627f84-a95b-466e-96c6-d26f5fb53742.png)
-
 # Solution:
-
 <hr>
 ## button.css
 
