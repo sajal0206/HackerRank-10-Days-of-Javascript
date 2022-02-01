@@ -1,7 +1,7 @@
-<img src="https://user-images.githubusercontent.com/66727050/151925667-9f627f84-a95b-466e-96c6-d26f5fb53742.png" width="400">
+![image](https://user-images.githubusercontent.com/66727050/151926074-c449ed72-acd2-43c2-b59c-83d36f7b6b24.png)
 
 # Solution:
-<hr>
+
 ## button.css
 
 #btn{
@@ -31,5 +31,3 @@ btn.addEventListener('click', function () {
         </script>
     </body>
 </html>
-
-<hr>
